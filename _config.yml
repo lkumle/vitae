@@ -17,22 +17,20 @@ baseurl: /vitae/
 title: Leah Kumle's Resume
 name: Leah Kumle
 email: leahkumle@gmail.com
-email_full: mailto:youremail@me.com
+email_full: mailto:leahkumle@gmail.com
 website: github.io/sustain
-website_full: https://jekyller.github.io/sustain
+website_full: https://lkumle.github.io/sustain
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: +49 85523792
+tel_full: tel:+49 157 85523792
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: Landgraf-Wilhelm-Straße 39
+  postcode: 60431
+  city: Frankfurt
+  country: Germany
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
 
-theme: jekyll-theme-minimal
